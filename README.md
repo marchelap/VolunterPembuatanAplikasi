@@ -10,4 +10,4 @@ Berikut daftar Volunter yang diterima:
 
 M
 --
-**\* Marchel Adias Pradana, [LinkedIn](https://www.linkedin.com/in/marchelp/)**
+* Marchel Adias Pradana, [LinkedIn](https://www.linkedin.com/in/marchelp/)
